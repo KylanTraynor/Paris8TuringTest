@@ -1,0 +1,10 @@
+[11-May-2016 22:00:34 Europe/Paris] PHP Notice:  Use of undefined constant e_all - assumed 'e_all' in D:\www\index.php on line 10
+[11-May-2016 22:01:23 Europe/Paris] PHP Notice:  Use of undefined constant e_all - assumed 'e_all' in D:\www\index.php on line 10
+[11-May-2016 22:01:30 Europe/Paris] PHP Notice:  Use of undefined constant e_all - assumed 'e_all' in D:\www\index.php on line 10
+[11-May-2016 22:10:37 Europe/Paris] PHP Notice:  Use of undefined constant e_all - assumed 'e_all' in D:\www\jumpin.php on line 9
+[11-May-2016 22:11:27 Europe/Paris] PHP Notice:  Use of undefined constant e_all - assumed 'e_all' in D:\www\jumpin.php on line 9
+[11-May-2016 22:12:00 Europe/Paris] PHP Notice:  Use of undefined constant e_all - assumed 'e_all' in D:\www\jumpin.php on line 9
+[11-May-2016 22:15:53 Europe/Paris] PHP Notice:  Use of undefined constant e_all - assumed 'e_all' in D:\www\jumpin.php on line 9
+[11-May-2016 22:16:09 Europe/Paris] PHP Notice:  Use of undefined constant e_all - assumed 'e_all' in D:\www\jumpin.php on line 9
+[11-May-2016 22:16:52 Europe/Paris] PHP Notice:  Use of undefined constant e_all - assumed 'e_all' in D:\www\jumpin.php on line 9
+[11-May-2016 22:18:15 Europe/Paris] PHP Notice:  Use of undefined constant e_all - assumed 'e_all' in D:\www\jumpin.php on line 9
